@@ -1,0 +1,40 @@
+﻿  Camera.cpp
+  main.cpp
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\PG_Proiect\main.cpp(142,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function "void __cdecl cleanup(void)" (?cleanup@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function "void __cdecl cleanup(void)" (?cleanup@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetFramebufferSize referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwSetWindowSizeCallback referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl renderScene(void)" (?renderScene@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function "bool __cdecl initOpenGLWindow(void)" (?initOpenGLWindow@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+main.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol ___glewBufferData
+main.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+main.obj : error LNK2001: unresolved external symbol _glewExperimental
+Shader.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+D:\Faculta\AN3_SEM1\PG\Lab\OpenGL dev libs\lib\Debug\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Faculta\AN3_SEM1\PG\Lab\OpenGL dev libs\lib\Debug\libglew32d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\Debug\PG_Proiect.exe : fatal error LNK1120: 33 unresolved externals

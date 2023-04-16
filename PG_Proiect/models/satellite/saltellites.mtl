@@ -1,0 +1,26 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Meteor-m2
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /textures/Meteor-M2_diffuse.png
+map_Ks /textures/Meteor-M2_specular.png
+map_Ns /textures/Meteor-M2_roughness.png
+map_refl /textures/Meteor-M2_metalness.png
+map_Bump -bm 1.000000 /Meteor-M2_normal.png
+
+newmtl Meteor-m2.002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /textures/Meteor-M2_diffuse.png
+map_Ks /textures/Meteor-M2_specular.png
+map_Ns /textures/Meteor-M2_roughness.png
+map_refl /textures/Meteor-M2_metalness.png
+map_Bump -bm 1.000000 /textures/Meteor-M2_normal.png

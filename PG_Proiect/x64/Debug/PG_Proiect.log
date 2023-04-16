@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\PG_Proiect\main.cpp(213,19): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\PG_Proiect\main.cpp(242,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\PG_Proiect\main.cpp(242,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\PG_Proiect\main.cpp(394,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  PG_Proiect.vcxproj -> D:\Faculta\AN3_SEM1\PG\Proiect\PG_Proiect\x64\Debug\PG_Proiect.exe

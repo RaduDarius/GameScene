@@ -1,0 +1,142 @@
+# Blender 3.4.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Material_#22
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/ceva_01.png
+
+newmtl Material_#300
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /textures/Textur_04.png
+map_Bump -bm 1.000000 /textures/BU.png
+
+newmtl Material_#305
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.058824 0.058824 0.058824
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material_#41
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /textures/d_2.jpg
+map_Bump -bm 1.000000 /textures/b.png
+
+newmtl Material_#73
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /textures/ceva_03.png
+
+newmtl defaultMat.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/alienegg_baseColor.png
+map_Ns /textures/alienegg_roughness.png
+map_refl /textures/alienegg_metallic.png
+
+newmtl defaultMat.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/baseegg_baseColor.png
+map_Ns /textures/baseegg_roughness.png
+map_refl /textures/baseegg_metallic.png
+
+newmtl defaultMat.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/alienegg_baseColor.png
+map_Ns /textures/alienegg_roughness.png
+map_refl /textures/alienegg_metallic.png
+
+newmtl defaultMat.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/baseegg_baseColor.png
+map_Ns /textures/baseegg_roughness.png
+map_refl /textures/baseegg_metallic.png
+
+newmtl defaultMat.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/alienegg_baseColor.png
+map_Ns /textures/alienegg_roughness.png
+map_refl /textures/alienegg_metallic.png
+
+newmtl defaultMat.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/baseegg_baseColor.png
+map_Ns /textures/baseegg_roughness.png
+map_refl /textures/baseegg_metallic.png
+
+newmtl defaultMat.014
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/alienegg_baseColor.png
+map_Ns /textures/alienegg_roughness.png
+map_refl /textures/alienegg_metallic.png
+
+newmtl defaultMat.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /textures/baseegg_baseColor.png
+map_Ns /textures/baseegg_roughness.png
+map_refl /textures/baseegg_metallic.png
